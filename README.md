@@ -1,23 +1,32 @@
 # AI Projects Portfolio
 
-This repository contains a collection of my Artificial Intelligence and Machine Learning projects.
+This repository contains my Artificial Intelligence, Machine Learning, Deep Learning, and Data Analysis projects.
 
 ## Projects
 
-### 1. Bottle Quality Inspection
-Computer Vision project for detecting bottle defects on a production line using image classification.
+### 1. Heart Disease Prediction
+A machine learning project using classification models to predict heart disease based on medical features.
 
-### 2. Project ML
-Machine Learning project including data preprocessing, model training, evaluation, and prediction.
+### 2. Weather Data Analysis and Forecasting
+A data analysis and machine learning project for analyzing weather data and predicting temperature.
 
-## Tools and Libraries
+### 3. Bottle Quality Inspection
+A deep learning project using CNN to classify good and defective bottles in a production line.
+
+### 4. PyTorch Practice Projects
+Basic PyTorch projects for learning tensors, neural networks, training loops, and model evaluation.
+
+## Skills Used
 - Python
-- Jupyter Notebook
 - Pandas
 - NumPy
-- Scikit-learn
-- TensorFlow / Keras
 - Matplotlib
-
-## Author
-Hashim Almaramhi
+- Seaborn
+- Scikit-learn
+- PyTorch
+- TensorFlow / Keras
+- SQL
+- Machine Learning
+- Deep Learning
+- Data Preprocessing
+- Model Evaluation
